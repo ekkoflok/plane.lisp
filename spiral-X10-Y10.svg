@@ -1,0 +1,22 @@
+ <svg style="position: fixed; left: 10%; top: 10%;" height="1000" width="1000" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0
+
+10 0
+10 10
+0 10
+0 2
+8 2
+8 8
+2 8
+2 4
+6 4
+6 6
+4 6
+4 6
+"
+  style="
+stroke-linecap:round;stroke-linejoin:round;stroke:#ff0000;stroke-opacity:1; fill: none;
+" />
+</svg> 
+
+
