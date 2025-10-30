@@ -1,12 +1,16 @@
 # plane.lisp
 A simple lisp script to generate G-code files for planing a surface
 
-Usage:
+## Usage:
+
 ./plane.lisp x y offset
 
-I.e:
+### I.e:
+
 ./plane.lisp 10 10 2 
-Generates the following code:
+
+### Generates the following code:
+
 G01 X10 Y0
 G01 X10 Y10
 G01 X0 Y10
