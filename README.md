@@ -27,3 +27,12 @@ G01 X4 Y6
 
 Along with an SVG file to visualize the output
 
+
+
+### TODO:
+* Add Z parameter
+* Add Feedrate parameter
+* Ensure floats in the output to work properly with the SRM-20
+* Add other patterns, i.e. zigzag
+* Add options to cut simple shapes, i.e. squares
+
